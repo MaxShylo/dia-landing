@@ -4,6 +4,6 @@ Responsive landing page. Implemented hamburger menu, responsive gallery, JavaScr
 
 Technologies: HTML, CSS, Sass (SCSS), BEM.
 
-Figma design
+[Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=9138%3A35)
 
-https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=9138%3A35
+[DEMO](https://maxshylo.github.io/dia-landing/)
